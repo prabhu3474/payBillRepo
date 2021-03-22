@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.payBills;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
