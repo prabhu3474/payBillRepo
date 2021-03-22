@@ -1,4 +1,4 @@
-package com.javatpoint;
+package com.payBills;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
